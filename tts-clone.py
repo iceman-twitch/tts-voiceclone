@@ -22,7 +22,7 @@ def text_to_speech(text, output_path):
                     file_path=filename)
 
 if __name__ == "__main__":
-    text_to_speech("Icebear, answer for Asmongold message. Icebear doesnt like you", BASE_PATH)
+    text_to_speech("Testing TTS. Is it working well?", BASE_PATH)
     # print("torch:", torch.__version__)
     # print("torch.version.cuda:", torch.version.cuda)
     # print("cuda available:", torch.cuda.is_available())
