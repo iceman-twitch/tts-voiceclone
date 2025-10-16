@@ -1,0 +1,4 @@
+# Python 3.9 Compatible Versions 
+coqui-tts==0.25.3
+pyinstaller==5.13.0
+pillow==9.5.0
